@@ -1,1 +1,7 @@
 # AI-in-Social-Engineering-and-Phishing-Campaigns
+Problem Statement: As Artificial Intelligence (AI) technologies continue to evolve, they are increasingly being exploited by cyber attackers to carry out advanced social engineering and phishing schemes. These AI-assisted threats are more sophisticated, personalized, and difficult to identify compared to traditional cyber attacks. This trend presents serious challenges for cybersecurity, emphasizing the need for a deeper understanding of how AI is misused and the development of effective strategies to combat such threats.
+-------------------------------------------------------------------------------------------------------------------------------------------------
+Setup instructions: First we have to download python version 3.13.3 (3.+) than install. Open command Prompt and type "pip install pandas scikit-learn nltk flask" and run, than our requried module will download. 
+Than in VS Code I created two files such as app.py and phishing_emails.csv
+I provided that source code. And for phishing source code content via "https://www.kaggle.com/datasets/naserabdullahalam/phishing-email-dataset" this link. Than run the app.py file, So in the terminal we got a url or IP address as "http://127.0.0.1:5000". Open it and check the messages by pasting here weither it is Legitimate Email or Phishing Email.
+-------------------------------------------------------------------------------------------------------------------------------------------------
