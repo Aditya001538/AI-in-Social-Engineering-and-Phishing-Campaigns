@@ -1,4 +1,5 @@
 # AI-in-Social-Engineering-and-Phishing-Campaigns
+Phishing Email/Message Detection Project using Python
 Problem Statement: As Artificial Intelligence (AI) technologies continue to evolve, they are increasingly being exploited by cyber attackers to carry out advanced social engineering and phishing schemes. These AI-assisted threats are more sophisticated, personalized, and difficult to identify compared to traditional cyber attacks. This trend presents serious challenges for cybersecurity, emphasizing the need for a deeper understanding of how AI is misused and the development of effective strategies to combat such threats.
 -------------------------------------------------------------------------------------------------------------------------------------------------
 Setup instructions: First we have to download python version 3.13.3 (3.+) than install. Open command Prompt and type "pip install pandas scikit-learn nltk flask" and run, than our requried module will download. 
